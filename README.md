@@ -2,5 +2,7 @@
 小超市上货管理系统的后端demo
 
 
-Compiles and hot-reloads for development
+### Compiles and hot-reloads for development
+```
 nodemon app.js
+```
